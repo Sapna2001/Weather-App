@@ -63,7 +63,7 @@ h1{
 }
 
 .weather-box {
-  display: inline-block;
+  display: flex;
   background-color: #b8e4c9;
   margin:30px;
   border-radius: 16px;
@@ -71,8 +71,16 @@ h1{
   font-size: 2.4rem;
   font-weight: bold;
   box-shadow: 3px 4px black;
+  flex-direction: row;
+  max-width: 250px;
+  margin-left: 35%;
 }
 
 .weather {
   padding: 10px;
+}
+
+.box-2{
+  display: flex;
+  align-content: center;
 }

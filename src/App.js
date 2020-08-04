@@ -78,8 +78,13 @@ function App() {
 							</div>
 						</div>
 						<div className="weather-box">
+							<div className="box-1">
 							<div className="temp">{Math.round(weather.main.temp)}°c</div>
-							<div className="weather">{weather.weather[0].main}</div>
+							<div className="weather">{weather.weather[0].description}</div>
+							</div>
+							<div className="box-2">
+							<img src= {`http://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`} alt="icon"/>
+							</div>
 						</div>
 					</div>
 				) : (
