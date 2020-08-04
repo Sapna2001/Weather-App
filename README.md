@@ -1,3 +1,9 @@
+# Weather App
+A simple weather app made using to know the weather at a place using React.js </br>
+[View it](https://weatherreactjs.netlify.app/)
+
+## Screenshot
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
