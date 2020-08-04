@@ -3,7 +3,7 @@ A simple weather app made using to know the weather at a place using React.js </
 [View it](https://weatherreactjs.netlify.app/)
 
 ## Screenshot
-<img src ="https://user-images.githubusercontent.com/56690856/89259478-051d0a00-d648-11ea-8599-ceface869e3a.png"/>
+<img src ="https://user-images.githubusercontent.com/56690856/89292939-c0f72d00-d67a-11ea-8ca9-aa46fc9a3b48.png"/>
 
 Note - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
