@@ -74,6 +74,7 @@ h1{
   flex-direction: row;
   max-width: 280px;
   margin-left: 35%;
+   justify-content: space-around;
 }
 
 .weather {
